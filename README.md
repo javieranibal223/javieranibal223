@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Para entender el lore de five night at freddys primer uso de git
+holaaaa aosdmaosdmo 
+
+dasd amsdm a sdm  sodmaosd m sk
+
