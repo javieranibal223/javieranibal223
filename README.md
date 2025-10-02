@@ -1,21 +1,22 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre]
 
-<!--
-**javieranibal223/javieranibal223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Tecnicatura Superior en Desarrollo de Software en Mar del Plata, Argentina. Apasionado por aprender nuevas tecnologías y mejorar día a día.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que uso / estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Para entender el lore de five night at freddys primer uso de git
-holaaaa aosdmaosdmo 
+- Lenguajes: C#, Python, Java, …  
+- Frameworks / Librerías: .NET, ASP.NET, Entity Framework, React, etc.  
+- Bases de datos: MySQL, SQL Server, PostgreSQL  
+- Herramientas: Git, GitHub, VS Code, Docker, etc.
 
-dasd amsdm a sdm  sodmaosd m sk
+## Proyectos destacados
+
+- [Proyecto A](link al repo) — breve descripción  
+- [Proyecto B](link al repo) — breve descripción  
+
+## 📫 Contacto
+
+- Email: tu_email@dominio.com  
+- LinkedIn: [Tu perfil LinkedIn](tu_enlace)  
+- Otros: (opcional)  
 
